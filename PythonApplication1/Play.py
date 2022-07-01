@@ -9,6 +9,7 @@ from Characters import *
 stepDescriptionsList = [] #holds the descriptions for each step that the user reads. If I wanted to expand the game, I would store the text in a text file instead.
 
 swimLength1 = "You are just offshore, swimming your first swim-length in the shallows.\n\
+    
 The water is clear and you see soft sand, beautiful shells, and little, scurrying crabs.\n\
 You feel confident and keep swimming deeper.\n"
 swimLength2 = "You are past the shallows, heading toward a swift undercurrent.\n\
